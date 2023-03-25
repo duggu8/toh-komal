@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/toh-komal",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
